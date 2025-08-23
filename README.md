@@ -1,6 +1,6 @@
 # flexoki-lualine.nvim
 
-A [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) theme plugin for [flexoki.nvim](https://github.com/cpplain/flexoki.nvim), an inky color scheme for [Neovim](https://github.com/neovim/neovim). Based on [stephango.com/flexoki](https://stephango.com/flexoki).
+A [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) theme integration for [flexoki.nvim](https://github.com/cpplain/flexoki.nvim), an inky color scheme for [Neovim](https://github.com/neovim/neovim). Based on [stephango.com/flexoki](https://stephango.com/flexoki).
 
 ## Features
 
