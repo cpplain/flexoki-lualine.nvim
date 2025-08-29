@@ -9,7 +9,7 @@ return {
         z = { bg = colors.bg, fg = colors.tx2 },
     },
     insert = {
-        a = { bg = colors.green4, fg = colors.green },
+        a = { bg = colors.green4, fg = colors.green2 },
         b = { bg = colors.bg, fg = colors.tx2 },
         c = { bg = colors.bg, fg = colors.tx2 },
         x = { bg = colors.bg, fg = colors.tx2 },
@@ -17,7 +17,7 @@ return {
         z = { bg = colors.bg, fg = colors.tx2 },
     },
     visual = {
-        a = { bg = colors.magenta4, fg = colors.magenta },
+        a = { bg = colors.magenta4, fg = colors.magenta2 },
         b = { bg = colors.bg, fg = colors.tx2 },
         c = { bg = colors.bg, fg = colors.tx2 },
         x = { bg = colors.bg, fg = colors.tx2 },
@@ -25,7 +25,7 @@ return {
         z = { bg = colors.bg, fg = colors.tx2 },
     },
     replace = {
-        a = { bg = colors.red4, fg = colors.red },
+        a = { bg = colors.red4, fg = colors.red2 },
         b = { bg = colors.bg, fg = colors.tx2 },
         c = { bg = colors.bg, fg = colors.tx2 },
         x = { bg = colors.bg, fg = colors.tx2 },
@@ -33,7 +33,7 @@ return {
         z = { bg = colors.bg, fg = colors.tx2 },
     },
     command = {
-        a = { bg = colors.orange4, fg = colors.orange },
+        a = { bg = colors.orange4, fg = colors.orange2 },
         b = { bg = colors.bg, fg = colors.tx2 },
         c = { bg = colors.bg, fg = colors.tx2 },
         x = { bg = colors.bg, fg = colors.tx2 },
@@ -41,7 +41,7 @@ return {
         z = { bg = colors.bg, fg = colors.tx2 },
     },
     terminal = {
-        a = { bg = colors.green4, fg = colors.green },
+        a = { bg = colors.green4, fg = colors.green2 },
         b = { bg = colors.bg, fg = colors.tx2 },
         c = { bg = colors.bg, fg = colors.tx2 },
         x = { bg = colors.bg, fg = colors.tx2 },
