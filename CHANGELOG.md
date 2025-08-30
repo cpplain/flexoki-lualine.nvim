@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+### Changed
+
+- **Improved contrast** - Enhanced visibility and readability across all lualine modes:
+  - Mode indicators now use higher contrast color variants (blue3, green3, magenta3, red3, orange3)
+  - Statusline text upgraded from tx2 to tx for better foreground contrast
+  - Background sections changed from bg to ui for improved section separation
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+
 ## [0.1.0] - 2025-08-23
 
 ### Added
@@ -26,4 +43,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [unreleased]: https://github.com/cpplain/flexoki-lualine.nvim/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/cpplain/flexoki-lualine.nvim/releases/tag/v0.1.0
-
