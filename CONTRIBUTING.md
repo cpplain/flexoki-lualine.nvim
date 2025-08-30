@@ -68,4 +68,3 @@ When working on the lualine theme:
 - Verify all mode states are properly styled
 
 Thank you for your understanding.
-
