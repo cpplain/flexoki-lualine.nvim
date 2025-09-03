@@ -1,5 +1,8 @@
 # flexoki-lualine.nvim
 
+> [!CAUTION]
+> I no longer use lualine.nvim. This plugin is now archived.
+
 A [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) theme integration for [flexoki.nvim](https://github.com/cpplain/flexoki.nvim), an inky color scheme for [Neovim](https://github.com/neovim/neovim). Based on [stephango.com/flexoki](https://stephango.com/flexoki).
 
 ## Features
